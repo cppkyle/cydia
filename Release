@@ -1,1 +1,9 @@
-
+Origin: cppkyle's Repo
+Label: cppkyle's Repo
+Suite: stable
+Version: 0.1
+Codename: cppkyle
+Architectures: iphoneos-arm
+Components: main
+Description: cppkyle's repo
+MD5Sum:
